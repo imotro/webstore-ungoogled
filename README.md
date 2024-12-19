@@ -4,4 +4,4 @@ the bookmarklet is saved in `bookmarklet.txt` and has been tested in the latest 
 <br>
 ### How it works:
 all the bookmarklet does is replace the button HTML with the code that would already be there if you had <br>
-already been authenticated with google.If this doesnt work, find the extension using the URL and download <br>it from the API.
+been authenticated with google. If this doesnt work, find the extension using the URL and download <br>it from the API.
